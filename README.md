@@ -12,7 +12,7 @@ El objetivo principal del proyecto es reducir la brecha existente entre la teor�
 
 Los participantes deben ejecutar un ciclo completo de auditoría técnica y análisis forense. El entorno está diseñado alineado con tácticas del marco MITRE ATT&CK, cubriendo las siguientes disciplinas:
 
-* **Enumeración y Acceso Inicial:** Reconocimiento de servicios e ingeniería inversa de documentos ofimáticos (* Spearphishing*) con macros maliciosas.
+* **Enumeración y Acceso Inicial:** Reconocimiento de servicios e ingeniería inversa de documentos ofimáticos (*Spearphishing*) con macros maliciosas.
 * **Evasión de Defensas:** Manipulación temporal del sistema (*Timestomping*) para eludir controles de acceso lógicos.
 * **Forense y Esteganografía Multimedia:** Análisis de canales de datos ocultos en espectrogramas de audio, metadatos y fotogramas de vídeo.
 * **Criptografía y Escalada de Privilegios:** Explotación de binarios SUID mediante ataques de colisión de hashes matemáticos e identificación de canales de Mando y Control (C2).
